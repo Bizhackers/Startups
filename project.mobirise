@@ -110,7 +110,7 @@
           "form": {
             "action": "Bizhackers@yahoo.com",
             "alerts": {
-              "success": "Thanks for Your Interest with Our Services .\nWe Ussualy Send Email providing you with Business Topic Once A Week."
+              "success": "Thanks for Your Interest with Our Services .\nWe Usually Send Email providing you with Business Topic Once A Week."
             },
             "fields": {
               "email": {
@@ -119,7 +119,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_styles": {
