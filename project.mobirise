@@ -427,8 +427,8 @@
               "color": "#000000"
             },
             ".mbr-section-title": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
               "font-size": "48px"
             }
           },
@@ -449,7 +449,7 @@
             "showSubTitle": true
           },
           "title": "We Like To Refer Customer To Your Business<br>Join The Free Network Trusted by Small Business Owners<br>Start networking and generating Customers today!&nbsp;",
-          "subtitle": "Sign Up For Free.",
+          "subtitle": "Sign Up For Free and Generating your Customers.",
           "form": {
             "action": "Bizhackers@yahoo.com",
             "alerts": {
