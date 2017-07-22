@@ -1,9 +1,10 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -433,8 +434,8 @@ h6,
   color: #ffffff;
 }
 #form2-2 .mbr-section-title {
-  color: #fff;
-  font-family: 'Open Sans Condensed', sans-serif;
+  color: #00a885;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 #form2-2 .mbr-section-subtitle {
   color: #a0a0a0;
@@ -472,4 +473,8 @@ h6,
 }
 #form1-9 SMALL {
   color: #000000;
+}
+#form1-9 .mbr-section-title {
+  font-family: 'Oswald', sans-serif;
+  font-size: 48px;
 }

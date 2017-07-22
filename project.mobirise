@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 12,
+    "uniqCompNum": 13,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -78,9 +78,9 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fff",
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700"
+              "color": "#00a885",
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             },
             ".mbr-section-subtitle": {
               "color": "#a0a0a0"
@@ -105,8 +105,8 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "Interesting With How Our Services Solved Others Business Problems ? (Case Study)",
-          "subtitle": "Subscribe to our Newsletter",
+          "title": "BizHackers Business Network is how small business owners get Customers&nbsp;<div>Sign up for free and start networking today&nbsp;<br>We Like To Refer Customer To Your Business<br></div>",
+          "subtitle": "Subscribe to our Business Network",
           "form": {
             "action": "Bizhackers@yahoo.com",
             "alerts": {
@@ -115,7 +115,7 @@
             "fields": {
               "email": {
                 "title": "Email",
-                "customTitle": "Enter Your Email Address..."
+                "customTitle": "Enter Your Business Email Address..."
               }
             }
           },
@@ -425,12 +425,17 @@
             },
             "SMALL": {
               "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "48px"
             }
           },
           "_anchor": "form1-9",
           "_params": {
             "labelsColor": "#232323",
-            "paddingTop": "1",
+            "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
@@ -443,23 +448,23 @@
             "showTitle": true,
             "showSubTitle": true
           },
-          "title": "CONTACT FORM",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "title": "We Like To Refer Customer To Your Business<br>Join The Free Network Trusted by Small Business Owners<br>Start networking and generating Customers today!&nbsp;",
+          "subtitle": "Sign Up For Free.",
           "form": {
             "action": "Bizhackers@yahoo.com",
             "alerts": {
-              "success": "Thanks for Contact Us ,We Will Be In touch in 24 Hours"
+              "success": "Thanks for Join With Us ,We Will Be In touch in 24 Hours"
             },
             "fields": {
               "name": {
                 "title": "Name",
                 "visible": true,
-                "customTitle": "Name*"
+                "customTitle": "Your First Name & Last Name"
               },
               "email": {
                 "title": "Email",
                 "visible": true,
-                "customTitle": "Email*"
+                "customTitle": "Your Business Email"
               },
               "phone": {
                 "title": "Phone",
@@ -468,11 +473,11 @@
               },
               "message": {
                 "title": "Message",
-                "customTitle": "Message"
+                "customTitle": "Define What is Your Business and What is the Problem if you Have One"
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">CONTACT US</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Sign Up ,It's Free</a>"
         }
       ]
     }
