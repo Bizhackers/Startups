@@ -712,7 +712,7 @@
             "paddingBottom": 3,
             "showButtons": true,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-1617x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
