@@ -549,7 +549,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.5",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -561,7 +561,7 @@
               "src": "@PROJECT_PATH@/assets/images/imageedit.gif",
               "height": 128,
               "alt": "Wordpress Worlds Bring All in One your Wordpress Site Need from Design + Security +Traffic + Scalability",
-              "link": "index.html",
+              "link": "www.wpworlds.com",
               "title": "WPWorlds Your All In One Wordpress Site Mainager ",
               "linkInNewWindow": false
             },
@@ -644,7 +644,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.5",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -656,7 +656,7 @@
               "src": "@PROJECT_PATH@/assets/images/imageedit.gif",
               "height": 128,
               "alt": "Wordpress Worlds Bring All in One your Wordpress Site Need from Design + Security +Traffic + Scalability",
-              "link": "index.html",
+              "link": "www.wpworlds.com",
               "title": "WPWorlds Your All In One Wordpress Site Mainager ",
               "linkInNewWindow": false
             },
@@ -802,10 +802,10 @@
               "color": "#000000"
             },
             ".link": {
-              "font-size": "1rem"
+              "font-size": "1.5rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.083rem"
+              "font-size": "1.624rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -841,7 +841,7 @@
             "collapsed": true,
             "transparent": true,
             "bgColor": "#ffffff",
-            "fontSize": "1",
+            "fontSize": "1.5",
             "fontName": {},
             "fontColor": "#000000",
             "fontHoverColor": "@primaryColor"
@@ -853,7 +853,7 @@
               "src": "@PROJECT_PATH@/assets/images/imageedit.gif",
               "height": 128,
               "alt": "Wordpress Worlds Bring All in One your Wordpress Site Need from Design + Security +Traffic + Scalability",
-              "link": "index.html",
+              "link": "www.wpworlds.com",
               "title": "WPWorlds Your All In One Wordpress Site Mainager ",
               "linkInNewWindow": false
             },
