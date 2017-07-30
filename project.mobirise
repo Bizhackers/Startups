@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 50,
+    "uniqCompNum": 51,
     "versionPublish": "4.0.15",
     "favicon": "@PROJECT_PATH@/assets/images/wpworlds-logo-128x62.png",
     "noImageResize": ""
@@ -1148,6 +1148,26 @@
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
               "font-size": "23px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "0",
+            "bgColor": "#3d8eb9"
+          },
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"Signup.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Sign Up Today</a> ",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "buttons1",
+          "_anchor": "buttons1-1e",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "20px"
             }
           }
         }
