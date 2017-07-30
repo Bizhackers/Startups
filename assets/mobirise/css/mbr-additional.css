@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
-@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
+@import url(../../../https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -448,14 +448,15 @@ h6,
   font-family: 'Oswald', sans-serif;
   color: #000000;
 }
-#features7-8 .card-subtitle {
-  color: #bcbcbc;
+#features4-e .card-subtitle {
+  color: #efefef;
 }
-#features7-8 .iconbox {
-  background-color: #000000;
-  border-color: #000000;
+#features4-e .iconbox {
+  background-color: #fac51c;
+  border-color: #fac51c;
 }
-#features7-8 P {
+#features4-e P {
+  color: #000000;
   font-family: 'Oswald', sans-serif;
 }
 #features7-7 .card-subtitle {

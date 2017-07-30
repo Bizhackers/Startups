@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "My Site",
+    "name": "WPWorlds",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -19,11 +19,14 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 13,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 15,
+    "versionPublish": "4.0.15",
+    "favicon": "@PROJECT_PATH@/assets/images/wpworlds-logo-128x62.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -53,27 +56,27 @@
           },
           "_anchor": "header1-b",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
             "showArrow": true,
+            "contentAlign": "center",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.2",
             "overlayColor": "#3d8eb9",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.2"
           },
-          "title": "BizHackers",
-          "text": "We Focus On Solving Your Business Problems <br>From Small Business To Startups and Fortune 500 Company<br>Our Core Services is Help You Identified and Solve the Problems&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+          "title": "WPWorlds",
+          "text": "We Focus On Solving Your Wordpress Problems <br>From Small Business To Startups and Fortune 500 Company<br>Our Core Services is Help You Identified and Solve the Problems&nbsp;",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Sign Up Today<br></a> "
         },
         {
           "_styles": {
@@ -92,20 +95,20 @@
           "_name": "form2",
           "_anchor": "form2-2",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#2e2e2e",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
-          "title": "BizHackers Business Network is how small business owners get Customers&nbsp;<div>Sign up for free and start networking today&nbsp;<br>We Like To Refer Customer To Your Business<br></div>",
+          "title": "WPWorlds Network is how small business owners get Customers&nbsp;<div>Sign up for free and start networking today&nbsp;<br>We Like To Refer Customer To Your Business<br></div>",
           "subtitle": "Subscribe to our Business Network",
           "form": {
             "action": "Bizhackers@yahoo.com",
@@ -138,147 +141,151 @@
           "_name": "header3",
           "_anchor": "header3-4",
           "_params": {
+            "showMeta": true,
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#41a85f",
-            "showMeta": true
+            "bgColor": "#41a85f"
           },
           "title": "Our Core Services",
           "meta": "We Are Specialized in...."
         },
         {
-          "_inherit": "features4",
-          "_tags": [
-            "Theme"
-          ],
           "_styles": {
             ".card-subtitle": {
-              "color": "#bcbcbc"
+              "color": "#efefef"
             },
             ".iconbox": {
-              "background-color": "@primaryColor",
-              "border-color": "@primaryColor"
+              "background-color": "#fac51c",
+              "border-color": "#fac51c"
             },
             "P": {
+              "color": "#000000",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
-          "_name": "features7",
-          "_anchor": "features7-8",
           "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "0",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false,
+            "iconsBgColor": "#fac51c",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "columns": "3",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#3d8eb9",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#7e9b9f",
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
-            "bgVideoRadio": false,
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "columns": 4,
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": false,
-            "ShowTexts": true,
-            "showButtons": false
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "protect",
+              "family": "MobiriseIcons",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
-              "link": "https://mobirise.com",
+              "link": "",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "black",
+              "newWindow": false
             }
           },
-          "title1": "Idea Validation",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "We Provide U With The Fastest Phase to Validate your Idea .It's better to fail at the Beginning than Waste of Your Valueable Time and Resources for Product or Services that Don't Worked Out..",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "magnifying-glass",
+              "family": "et-line",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "edit",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "black"
             }
           },
-          "title2": "Market Research",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "We Provide Market Research for your Business&nbsp;<br>with <br>Studying your Competitor and Build your Uniqe Selling Proposition",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "search",
+              "family": "et-line",
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "black"
             }
           },
-          "title3": "Customer Acquisition",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "We Provide Customer Acquisition Services &nbsp;for your Business<br>We Focus On Bring to your Business or Services with Only The Highly Target Customer- Based on Your Ideal Target Market<br><br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
+              "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
+              "color": "black",
               "family": "et-line"
             }
           },
-          "title4": "Software Development",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "We Provide Services to Build Software , Mobile App and SAAS (Software As A Services) App",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
+              "color": "black",
               "family": "et-line"
             }
           },
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "iconFont": {
               "active": true,
-              "class": "mbr-iconfont mbr-iconfont-features7",
+              "class": "mbr-iconfont mbr-iconfont-features4",
               "name": "linegraph",
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
+              "color": "black",
               "family": "et-line"
             }
           },
+          "title1": "Secure",
+          "subtitle1": "Securing your Website",
+          "caption1": "Secure your data with reliable backups and protect your website with regular security checks.",
+          "title2": "Monitor",
+          "subtitle2": "Monitoring Your Assets",
+          "caption2": "Stay on top of things and monitor your websites with Uptime Monitor, SEO and Google Analytics.",
+          "title3": "Website Performance Benchmarks",
+          "subtitle3": "We Review your Website Performance",
+          "caption3": "Benchmark\n<br>Optimize your website performance and speed with our Performance Check.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-e"
         },
         {
           "_inherit": "features4",
@@ -301,37 +308,38 @@
           "_name": "features7",
           "_anchor": "features7-7",
           "_params": {
-            "iconsBgColor": "@primaryColor",
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#553982",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "columns": 4,
             "showImages": true,
             "showTitles": true,
             "showSubtitles": false,
             "ShowTexts": true,
-            "showButtons": false
+            "showButtons": false,
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "columns": 4,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#553982",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
           "media1": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "phone",
+              "linkInNewWindow": false,
+              "name": "change-style",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "title1": "Web Site Design Services",
@@ -355,13 +363,14 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "briefcase",
+              "linkInNewWindow": false,
+              "name": "rocket",
+              "family": "MobiriseIcons",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "title3": "Website Scalability+Performance",
@@ -370,13 +379,14 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
-              "active": true,
               "class": "mbr-iconfont mbr-iconfont-features7",
-              "name": "linegraph",
+              "linkInNewWindow": false,
+              "name": "gears",
+              "family": "et-line",
+              "active": true,
               "link": "https://mobirise.com",
               "size": 0,
-              "color": "#fff",
-              "family": "et-line"
+              "color": "#fff"
             }
           },
           "title4": "&nbsp;Website Managed Services",
@@ -434,19 +444,19 @@
           },
           "_anchor": "form1-9",
           "_params": {
+            "showTitle": true,
+            "showSubTitle": true,
             "labelsColor": "#232323",
             "paddingTop": "4",
             "paddingBottom": "4",
             "bgImageRadio": false,
-            "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#e25041",
+            "parallax": true,
             "bgColorRadio": true,
+            "bgColor": "#e25041",
             "overlay": false,
-            "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showSubTitle": true
+            "overlayOpacity": 0.5
           },
           "title": "We Like To Refer Customer To Your Business<br>Join The Free Network Trusted by Small Business Owners<br>Start networking and generating Customers today!&nbsp;",
           "subtitle": "Sign Up For Free and Generating your Customers.",
