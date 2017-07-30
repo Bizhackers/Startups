@@ -1,10 +1,13 @@
 @import url(../../../https://fonts.googleapis.com/css?family=PT+Serif:400,400i,700,700i);
 @import url(../../../https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Bitter:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700);
+
 
 
 
@@ -441,6 +444,10 @@ h6,
 #form2-2 .mbr-section-subtitle {
   color: #a0a0a0;
 }
+#form2-2 .mbr-section-title DIV {
+  font-family: 'Bitter', serif;
+  font-size: 24px;
+}
 #header3-4 .mbr-section-title,
 #header3-4 .mbr-section-subtitle {
   text-align: center;
@@ -477,8 +484,8 @@ h6,
   color: #000000;
 }
 #form1-9 .mbr-section-title {
-  font-family: 'Yanone Kaffeesatz', sans-serif;
-  font-size: 48px;
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 30px;
 }
 #menu-f .hide-buttons .nav-btn {
   display: none !important;
@@ -487,22 +494,22 @@ h6,
   color: #ffffff;
 }
 #menu-f .navbar-toggler {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-f .close-icon::before,
 #menu-f .close-icon::after {
-  background-color: #ffffff;
+  background-color: #000000;
 }
 #menu-f .link,
 #menu-f .dropdown-item {
-  color: #ffffff;
+  color: #000000;
 }
 #menu-f .link {
-  font-size: 1.85rem;
+  font-size: 1.5rem;
 }
 #menu-f .dropdown-item,
 #menu-f .nav-dropdown-sm .link {
-  font-size: 2.004rem;
+  font-size: 1.624rem;
 }
 #menu-f .link:hover,
 #menu-f .dropdown-item:hover,
@@ -512,22 +519,22 @@ h6,
 }
 #menu-f .link[aria-expanded="true"],
 #menu-f .dropdown-menu {
-  background: #0e0e0e;
+  background: #e6e6e6;
 }
 #menu-f .nav-dropdown-sm .link:focus,
 #menu-f .nav-dropdown-sm .link:hover,
 #menu-f .nav-dropdown-sm .dropdown-item:focus,
 #menu-f .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+  background: #f7f7f7!important;
 }
 #menu-f .navbar,
 #menu-f .nav-dropdown-sm,
 #menu-f .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-f .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+  background: #ffffff;
 }
 #menu-f .bg-color.transparent .link {
-  color: #ffffff;
+  color: #000000;
   transition: none;
 }
 #menu-f .bg-color.transparent.opened .link {
