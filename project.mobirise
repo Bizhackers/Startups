@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Signup.html",
+    "currentPage": "blog.html",
     "name": "WPWorlds",
     "theme": {
       "name": "mobirise3",
@@ -876,7 +876,7 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "font-size": "30px",
+              "font-size": "23px",
               "font-family": "'Roboto Condensed', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700"
             }
@@ -885,8 +885,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": 3,
-            "paddingBottom": "4",
+            "paddingTop": "5",
+            "paddingBottom": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
             "parallax": true,
