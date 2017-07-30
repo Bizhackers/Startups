@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "blog.html",
+    "currentPage": "Signup.html",
     "name": "WPWorlds",
     "theme": {
       "name": "mobirise3",
@@ -718,9 +718,9 @@
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1617x1080.png",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fff",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/embed/y8HsD9qmTiY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
               "rawUrl": "https://www.youtube.com/watch?v=y8HsD9qmTiY",
