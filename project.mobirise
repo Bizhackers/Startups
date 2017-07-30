@@ -714,18 +714,21 @@
             "paddingTop": 3,
             "paddingBottom": 3,
             "showButtons": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/mbr-1617x1080.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
-            "bgVideoRadio": false,
+            "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "url": "https://www.youtube.com/embed/y8HsD9qmTiY?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://www.youtube.com/watch?v=y8HsD9qmTiY",
+              "width": 1280,
+              "height": 720
             },
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0.5"
           },
           "description1": "for 14 Days",
           "description2": "Free 7 Days Trial",
