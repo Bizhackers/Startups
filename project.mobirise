@@ -26,7 +26,7 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 53,
+    "uniqCompNum": 56,
     "versionPublish": "4.0.15",
     "favicon": "@PROJECT_PATH@/assets/images/wpworlds-logo-128x62.png",
     "noImageResize": "",
@@ -1181,7 +1181,7 @@
     },
     "How To Start Your Wordpress Blog The Right Way.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "How To Start Your WordpressBlog The Right Way",
         "title": "How To Start Your Wordpress Blog The Right Way",
         "order": 2
       },
@@ -1279,11 +1279,11 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/2-800x1200.png",
+              "src": "@PROJECT_PATH@/assets/images/2-1-800x1200.png",
               "width": 1400,
-              "link": "How To Start Your Wordpress Blog The Right Way.html",
-              "alt": "How To Start Your Wordpress Blog The Right Way",
-              "title": "The Right Way To Start Your Wordpress Blog",
+              "link": "",
+              "alt": "",
+              "title": "",
               "linkInNewWindow": false
             },
             "video": {
@@ -1295,7 +1295,7 @@
             "Theme"
           ],
           "_name": "image1",
-          "_anchor": "image1-1g"
+          "_anchor": "image1-1j"
         }
       ]
     }
